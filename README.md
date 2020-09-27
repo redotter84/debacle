@@ -1,6 +1,6 @@
 # Debacle
 
-An application for learning foreign words.
+An application for learning foreign words, 2019.
 
 ## Build instructions
 
